@@ -1,0 +1,23 @@
+E:\c# program\new programs\new code\new phonebook\new phonebook\bin\Debug\new phonebook.exe.config
+E:\c# program\new programs\new code\new phonebook\new phonebook\bin\Debug\new phonebook.exe
+E:\c# program\new programs\new code\new phonebook\new phonebook\bin\Debug\new phonebook.pdb
+E:\c# program\new programs\new code\new phonebook\new phonebook\obj\Debug\new phonebook.exe
+E:\c# program\new programs\new code\new phonebook\new phonebook\obj\Debug\new phonebook.pdb
+E:\c# program\original\new code ok\new phonebook\new phonebook\bin\Debug\new phonebook.exe.config
+E:\c# program\original\new code ok\new phonebook\new phonebook\bin\Debug\new phonebook.exe
+E:\c# program\original\new code ok\new phonebook\new phonebook\bin\Debug\new phonebook.pdb
+E:\c# program\original\new code ok\new phonebook\new phonebook\obj\Debug\new phonebook.csprojResolveAssemblyReference.cache
+E:\c# program\original\new code ok\new phonebook\new phonebook\obj\Debug\new phonebook.exe
+E:\c# program\original\new code ok\new phonebook\new phonebook\obj\Debug\new phonebook.pdb
+E:\c# program\new programs\new code 2\new phonebook\new phonebook\bin\Debug\new phonebook.exe.config
+E:\c# program\new programs\new code 2\new phonebook\new phonebook\obj\Debug\new phonebook.exe
+E:\c# program\new programs\new code 2\new phonebook\new phonebook\obj\Debug\new phonebook.pdb
+E:\c# program\new programs\new code 2\new phonebook\new phonebook\bin\Debug\new phonebook.exe
+E:\c# program\new programs\new code 2\new phonebook\new phonebook\bin\Debug\new phonebook.pdb
+E:\c# program\new programs\new code 2\new phonebook\new phonebook\obj\Debug\new phonebook.csprojResolveAssemblyReference.cache
+E:\c# program\new programs\new phonebook\new phonebook\bin\Debug\new phonebook.exe.config
+E:\c# program\new programs\new phonebook\new phonebook\obj\Debug\new phonebook.exe
+E:\c# program\new programs\new phonebook\new phonebook\obj\Debug\new phonebook.pdb
+E:\c# program\new programs\new phonebook\new phonebook\bin\Debug\new phonebook.exe
+E:\c# program\new programs\new phonebook\new phonebook\bin\Debug\new phonebook.pdb
+E:\c# program\new programs\new phonebook\new phonebook\obj\Debug\new phonebook.csprojResolveAssemblyReference.cache
